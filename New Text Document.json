@@ -1,0 +1,107 @@
+[
+  {
+    "url": "https://www.aventissystems.com/dl380g10-servers-hpe/",
+    "Chassis-Options": [
+      {
+        "chassis-main-options": "8 x 2.5\" HotSwap SAS, SATA",
+        "sff-lff-secondary-options": [
+          "-- SAS Hard Drives --",
+          "1.2TB (4 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $280.00)",
+          "2.4TB (4 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $440.00)",
+          "2.4TB (8 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $560.00)",
+          "3.6TB (4 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,440.00)",
+          "4TB (4 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $560.00)",
+          "4.8TB (4 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $440.00)",
+          "4.8TB (8 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $880.00)",
+          "7.2TB (4 x 1.8TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $1,280.00)",
+          "7.2TB (8 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $2,880.00)",
+          "8TB (4 x 2TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $840.00)",
+          "8TB (8 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $1,120.00)",
+          "9.6TB (4 x 2.4TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $1,420.00)",
+          "9.6TB (8 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $880.00)",
+          "14.4TB (8 x 1.8TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $2,560.00)",
+          "16TB (8 x 2TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $1,680.00)",
+          "19.2TB (8 x 2.4TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $2,840.00)",
+          "-- SATA SSD Hard Drives --",
+          "1.92TB (4 x 480GB) 6Gb/s SATA Solid State Drive (Add $440.00)",
+          "3.84TB (4 x 960GB) 6Gb/s SATA Solid State Drive (Add $720.00)",
+          "3.84TB (8 x 480GB) 6Gb/s SATA Solid State Drive (Add $880.00)",
+          "7.68TB (4 x 1.92TB) 6Gb/s SATA Solid State Drive (Add $1,000.00)",
+          "7.68TB (8 x 960GB) 6Gb/s SATA Solid State Drive (Add $1,440.00)",
+          "15.36TB (4 x 3.84TB) 6Gb/s SATA Solid State Drive (Add $2,000.00)",
+          "15.36TB (8 x 1.92TB) 6Gb/s SATA Solid State Drive (Add $2,000.00)",
+          "30.72TB (8 x 3.84TB) 6Gb/s SATA Solid State Drive (Add $4,000.00)",
+          "-- SAS SSD Hard Drives --",
+          "1.6TB (4 x 400GB) 12Gb/s SAS Solid State Drive (Add $1,140.00)",
+          "3.2TB (4 x 800GB) 12Gb/s SAS Solid State Drive (Add $1,720.00)",
+          "3.2TB (8 x 400GB) 12Gb/s SAS Solid State Drive (Add $2,280.00)",
+          "3.84TB (4 x 960GB) 12Gb/s SAS Solid State Drive (Add $2,280.00)",
+          "6.4TB (8 x 800GB) 12Gb/s SAS Solid State Drive (Add $3,440.00)",
+          "7.68TB (4 x 1.92TB) 12Gb/s SAS Solid State Drive (Add $2,860.00)",
+          "7.68TB (8 x 960GB) 12Gb/s SAS Solid State Drive (Add $4,560.00)",
+          "15.36TB (4 x 3.84TB) 12Gb/s SAS Solid State Drive (Add $3,440.00)",
+          "15.36TB (8 x 1.92TB) 12Gb/s SAS Solid State Drive (Add $5,720.00)",
+          "30.72TB (4 x 7.68TB) 12Gb/s SAS Solid State Drive (Add $6,860.00)",
+          "30.72TB (8 x 3.84TB) 12Gb/s SAS Solid State Drive (Add $6,880.00)",
+          "61.44TB (8 x 7.68TB) 12Gb/s SAS Solid State Drive (Add $13,720.00)"
+        ]
+      },
+      {
+        "chassis-main-options": "24 x 2.5\" HotSwap SAS, SATA",
+        "sff-lff-secondary-options": [
+          "-- SAS Hard Drives --",
+          "4.8TB (16 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,120.00)",
+          "7.2TB (24 x 300GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,680.00)",
+          "9.6TB (16 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $1,760.00)",
+          "14.4TB (16 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $5,760.00)",
+          "14.4TB (24 x 600GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $2,640.00)",
+          "16TB (16 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $2,240.00)",
+          "19.2TB(16 x 1.2TB) 10K 12Gb/s SAS 2.5\" Hard Drive (Add $1,760.00)",
+          "21.6TB (24 x 900GB) 15K 12Gb/s SAS 2.5\" Hard Drive (Add $8,640.00)",
+          "24TB (24 x 1TB) 7.2K 12Gb/s SAS 2.5\" Hard Drive (Add $3,360.00)",
+          "-- SATA SSD Hard Drives --",
+          "7.68TB (16 x 480GB) 6Gb/s SATA Solid State Drive (Add $1,760.00)",
+          "11.52TB (24 x 480GB) 6Gb/s SATA Solid State Drive (Add $2,640.00)"
+        ]
+      },
+      {
+        "chassis-main-options": "12 x 3.5\" HotSwap SAS, SATA",
+        "sff-lff-secondary-options": [
+          "-- SATA Hard Drives --",
+          "48TB (12 x 4TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $1,680.00)",
+          "96TB (12 x 8TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $2,580.00)",
+          "120TB (12 x 10TB) 7.2K 6Gb/s SATA 3.5\" Hard Drive (Add $3,840.00)",
+          "-- SAS Hard Drives --",
+          "48TB (12 x 4TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $2,580.00)",
+          "96TB (12 x 8TB) 7.2K 12Gb/s SAS 3.5\" Hard Drive (Add $3,420.00)"
+        ]
+      }
+    ],
+    "Processor-Options": [
+      {
+      	"processor-main-options": "Dual (2) Intel Gold 6126 12-Core 2.6GHz 19.25MB CPU",
+      	"microsoft-operating-system-secondary-option": [
+      		"- none -",
+      		"-- Microsoft Windows Server 2019 Standard --",
+      		"Microsoft Windows Server 2019 Standard License 16 Core Pack Open Business (Add $1,175.00)",
+      		"-- Microsoft Windows Server 2019 Datacenter --",
+      		"Microsoft Windows Server 2019 Datacenter License 16 Core Pack Open Business (Add $6,156.00)",
+      		"-- Microsoft Windows Server 2022 Standard --",
+      		"Microsoft Windows Server 2022 Standard License 16 Core Pack Open Business (Add $1,175.00)"
+      	]
+      },
+      {
+      	"processor-main-options": "Dual (2) Intel Gold 5222 4-Core 3.8GHz 17MB CPU (Add $1,770.00)",
+      	"microsoft-operating-system-secondary-option": [
+      		"- none -",
+      		"-- Microsoft Windows Server 2019 Standard --",
+      		"Microsoft Windows Server 2019 Standard License 2 Core Pack Open Business (Add $147.00)",
+      		"-- Microsoft Windows Server 2019 Datacenter --",
+      		"Microsoft Windows Server 2019 Datacenter License 2 Core Pack Open Business (Add $770.00)",
+      		"-- Microsoft Windows Server 2022 Standard --",
+      		"Microsoft Windows Server 2022 Standard License 2 Core Pack Open Business (Add $147.00)"
+      	]
+      }
+    ]
+  }
+]
